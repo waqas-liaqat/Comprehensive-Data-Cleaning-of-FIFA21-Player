@@ -89,11 +89,6 @@ Comprehensive Data Cleaning of FIFA21 Player/
    ```
 4. Run `notebooks/fifa21_data_cleaning.ipynb`  
 
-### **Option 2: Run Python Script**  
-If you prefer running a Python script instead of a Jupyter Notebook:  
-```bash
-python scripts/data_cleaning.py
-```
 
 ## 📌 Next Steps  
 🔹 Perform **EDA (Exploratory Data Analysis)**  
