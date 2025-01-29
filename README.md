@@ -76,7 +76,7 @@ Comprehensive Data Cleaning of FIFA21 Player/
 ### **Option 1: Run Jupyter Notebook**  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/waqas-liaqat/FIFA21-Data-Cleaning.git
+   git clone https://github.com/waqas-liaqat/Comprehensive-Data-Cleaning-of-FIFA21-Player.git
    cd FIFA21-Data-Cleaning
    ```
 2. Install required dependencies  
