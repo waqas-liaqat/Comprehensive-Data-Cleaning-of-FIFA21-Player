@@ -1,9 +1,9 @@
-# 🏆 FIFA21 Data Cleaning Project  
+# **FIFA21 Data Cleaning Project** 
 
-## 📌 Project Overview  
+## Project Overview  
 Raw data is often messy, inconsistent, and filled with missing values. This project focuses on **cleaning and preprocessing the FIFA21 dataset**, ensuring it is structured, consistent, and ready for analysis.  
 
-## 🎯 Objectives  
+## Objectives  
 - Handle **missing values** and **duplicates**  
 - Convert **incorrect data types** (height, weight, wages, etc.)  
 - Extract and clean **contract details**  
@@ -15,12 +15,12 @@ Raw data is often messy, inconsistent, and filled with missing values. This proj
 - **Size:** ~18,979 players, 77 features  
 - **Format:** CSV  
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **Python** (pandas, numpy)  
 - **Data Visualization:** seaborn  
 - **Jupyter Notebook**  
 
-## 📂 Repository Structure  
+## Repository Structure  
 ```
 Comprehensive Data Cleaning of FIFA21 Player/
 │── data/
@@ -43,7 +43,7 @@ Comprehensive Data Cleaning of FIFA21 Player/
 │── .gitignore                  # Ignore unnecessary files
 ```
 
-## 🔍 Data Cleaning Steps  
+## Data Cleaning Steps  
 ✔ **Handling Missing Values:**  
 - Imputed `Loan Date End` missing values with `"Not Present"`  
 - Checked and handled missing values using heatmaps  
@@ -67,12 +67,12 @@ Comprehensive Data Cleaning of FIFA21 Player/
 - Removed special characters (`★`) from rating columns  
 - Standardized **SM, W/F, IR** ratings to **integers**  
 
-## 📈 Results & Insights  
+## Results & Insights  
 - The cleaned dataset is now **fully structured**, **free of inconsistencies**, and **ready for analysis**  
 - Standardized **monetary** and **player attributes** enable accurate player comparison  
 - Improved **data integrity** for future **machine learning models**  
 
-## 🚀 How to Run  
+## How to Run  
 ### **Option 1: Run Jupyter Notebook**  
 1. Clone this repository  
    ```bash
@@ -90,12 +90,12 @@ Comprehensive Data Cleaning of FIFA21 Player/
 4. Run `notebooks/fifa21_data_cleaning.ipynb`  
 
 
-## 📌 Next Steps  
+## Next Steps  
 🔹 Perform **EDA (Exploratory Data Analysis)**  
 🔹 Build **Machine Learning Models** for player performance predictions  
 🔹 Create a **Power BI/Tableau Dashboard** for FIFA21 player insights  
 
-## 🤝 Connect with Me  
+## Connect with Me  
 👤 **Muhammad Waqas**  
 📧 Email: [waqasliaqat630@gmail.com](mailto:waqasliaqat630@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-waqas-liaqat/)  
